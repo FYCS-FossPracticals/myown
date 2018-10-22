@@ -6,3 +6,4 @@ practical 4- contributing to wikipedia
 practical 5- installing VirtualBox n create virtual machine
 practical 6- installing operating system (Red Hat)
 practical 7- contributing to Github, creating repository....
+practical 8- Docker-Containerization
